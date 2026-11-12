@@ -1,8 +1,13 @@
 {
  "schema": 1,
- "issued": "2026-11-11",
+ "issued": "2026-11-12",
  "note": "FM 매치데이 저널이 받아 쓰는 FM 빌드 정보. 서명(mj-builds.json.sig)이 맞을 때만 씁니다.",
  "builds": [
+  {
+   "name": "fm27-20261112",
+   "sha256": "8c6971ce0b1c8afe6529ea3f46205a5175aea988a97d7421a980da42e23fe340",
+   "rva": "0x4764AC0"
+  },
   {
    "name": "fm27-20261111",
    "sha256": "f79b0a3413dd0e3f461b0afbc3ff397003f4a26d7525a30717428de6a8b91196",
