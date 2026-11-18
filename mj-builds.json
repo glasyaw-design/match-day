@@ -1,8 +1,13 @@
 {
  "schema": 1,
- "issued": "2026-11-13",
+ "issued": "2026-11-18",
  "note": "FM 매치데이 저널이 받아 쓰는 FM 빌드 정보. 서명(mj-builds.json.sig)이 맞을 때만 씁니다.",
  "builds": [
+  {
+   "name": "fm27-20261118",
+   "sha256": "d12202dd01c3911d4c4e55e778f37b2251ffb10f9cf8cecc3b9ec08ece622c6b",
+   "rva": "0x47B46F0"
+  },
   {
    "name": "gamepass-0.9.2435.0",
    "sha256": "ae60203e75be891a1911377d9fa6721628b34f6a689e598bc08f995367623f6a",
